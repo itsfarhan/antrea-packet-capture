@@ -1,0 +1,13 @@
+NAMESPACE            NAME                                                READY   STATUS    RESTARTS   AGE
+default              test-pod                                            1/1     Running   0          94m
+kube-system          antrea-agent-7kf5f                                  2/2     Running   0          100m
+kube-system          antrea-controller-7dc9784cdf-hlbmd                  1/1     Running   0          100m
+kube-system          coredns-6f6b679f8f-2nq6z                            1/1     Running   0          101m
+kube-system          coredns-6f6b679f8f-dtfq4                            1/1     Running   0          101m
+kube-system          etcd-antrea-test-control-plane                      1/1     Running   0          101m
+kube-system          kube-apiserver-antrea-test-control-plane            1/1     Running   0          101m
+kube-system          kube-controller-manager-antrea-test-control-plane   1/1     Running   0          101m
+kube-system          kube-proxy-tngb2                                    1/1     Running   0          101m
+kube-system          kube-scheduler-antrea-test-control-plane            1/1     Running   0          101m
+kube-system          packet-capture-flj5v                                1/1     Running   0          83m
+local-path-storage   local-path-provisioner-57c5987fd4-dwhrz             1/1     Running   0          101m
