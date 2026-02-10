@@ -30,3 +30,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# my files
+*.pcap
+go.sum
+capture-controller
+outputs/*.txt
+outputs/*.pcap
